@@ -25,6 +25,12 @@ Contact
 
 <img src = "assets/images/Contact.jpg">
 
+# Repo Details 
+https://github.com/baredh821/baredh821.github.io
+
+
+
+
 
 
 
