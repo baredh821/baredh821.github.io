@@ -1,12 +1,12 @@
 # Project Title
 Portfolio - This project covers the portfolio of Balaji Manoharan which was created using HTML and CSS. It contains three different sections 
-> About Me
-> Portfolio
-> Contact 
+> About Me <br>
+> Portfolio <br>
+> Contact <br>
 
 # Built With
->Html - UI features
->CSS - Style sheet
+>Html - UI features <br>
+>CSS - Style sheet <br>
 
 # Versioning 
 > Github
