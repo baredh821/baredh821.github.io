@@ -19,6 +19,12 @@ About me
 
 Portfolio
 
+<img src = "assets/images/Portfolio.jpg">
+
+Contact
+
+<img src = "assets/images/Contact.jpg">
+
 
 
 
