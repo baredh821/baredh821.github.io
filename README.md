@@ -15,6 +15,7 @@ Portfolio - This project covers the portfolio of Balaji Manoharan which was crea
 
 About me
 
+<img src = "assets/images/AboutScreen.png">
 
 
 
